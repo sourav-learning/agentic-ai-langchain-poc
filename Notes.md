@@ -20,6 +20,9 @@ uv venv
 ### Activate Virtual Environment
 .venv\Scripts\activate
 
+### Deactivate Virtual Environment
+deactivate
+
 ### To list the required libraries for installing by one command
 Create requirements.txt file outside .venv
 Add the required libraries in the file
